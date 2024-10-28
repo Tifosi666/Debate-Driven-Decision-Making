@@ -1,0 +1,8 @@
+Model Information:
+* title:	FogCloud Animation Test
+* source:	https://sketchfab.com/3d-models/fogcloud-animation-test-51569819a05640c69aa91d8587d7ff0b
+* author:	laurieannis (https://sketchfab.com/laurieannis)
+
+Model License:
+* license type:	see viewerUrl (https://sketchfab.com/3d-models/fogcloud-animation-test-51569819a05640c69aa91d8587d7ff0b)
+* requirements:	see https://sketchfab.com/3d-models/fogcloud-animation-test-51569819a05640c69aa91d8587d7ff0b
